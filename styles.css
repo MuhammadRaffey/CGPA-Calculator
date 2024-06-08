@@ -50,6 +50,7 @@ body {
     font-weight: bold;
     width: 100%;
     padding: 10px;
+    
     background-color: #007bff;
     color: #fff;
     border: none;
@@ -66,4 +67,6 @@ body {
     margin-top: 20px;
     font-weight: bold;
   }
-  
+.credit-hours{
+  margin-bottom: 10px;
+}
